@@ -5,6 +5,9 @@
 ![Version](https://img.shields.io/badge/SDK--Version-4.1-red?style=for-the-badge)
 ![Database](https://img.shields.io/badge/database-Firestore-blue?style=for-the-badge)
 
+## About the Project
+
+This project is intended to help the Geeks who are exploring new technologies.Through this app, they can take help from the persons who are pretty good in that technology.They can find the students and working professionals who have been working in that tech stack for a long time and pretty expert in that by their names,college names,skills,cities etc.
 
 ## Team:
 
