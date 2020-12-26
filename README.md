@@ -7,7 +7,7 @@
 
 ## About the Project
 
-This project is intended to help the Geeks who are exploring new technologies.Through this app, they can take help from the persons who are pretty good in that technology.They can find the students and working professionals who have been working in that tech stack for a long time and pretty expert in that by their names,college names,skills,cities etc.
+This project is intended to help the college students who are exploring new technologies.Through this app, they can take help from their batch mates, seniors and their alumnis who are pretty good in that technology.They can find the students and working professionals who have been working in that tech stack for a long time and pretty expert in that by their names,skills etc.
 
 ## Team:
 
