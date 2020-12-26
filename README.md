@@ -40,10 +40,10 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    
-    <td align="center"><a href="https://github.com/vanshika-rjit"><img src="https://avatars3.githubusercontent.com/u/51281975?s=460&u=05b89f9981c540ae6bb0d4f907f6ca32b79993de&v=4"width=150px height=150px;" alt=""/><br /><b>Vanshika Sikarwar</b></a><br /></td>
-     <td align="center"><a href="https://github.com/priya459"><img src="https://avatars3.githubusercontent.com/u/71169495?s=400&v=4"width=150px height=150px;" alt=""/><br /><b>Priya Garg</b></a><br /></td>
+ <td align="center"><a href="https://github.com/vanshika-rjit"><img src="https://avatars3.githubusercontent.com/u/51281975?s=460&u=05b89f9981c540ae6bb0d4f907f6ca32b79993de&v=4"width=150px height=150px;" alt=""/><br /><b>Vanshika Sikarwar</b></a><br /></td>
+  <td align="center"><a href="https://github.com/priya459"><img src="https://avatars3.githubusercontent.com/u/71169495?s=400&v=4"width=150px height=150px;" alt=""/><br /><b>Priya Garg</b></a><br /></td>
+   </table>
+
  
   </tr>
 </table>
